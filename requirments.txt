@@ -4,5 +4,4 @@ numpy
 scikit-learn
 tensorboard
 matplotlib
-
 streamlit
